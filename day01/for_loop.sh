@@ -6,3 +6,4 @@ do
 	mkdir "$1 $num"
 done
 
+# test
